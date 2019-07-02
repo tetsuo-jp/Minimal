@@ -3,9 +3,9 @@ You are free to use and modify it as you wish.
 
 To compile it, you need the Objective Caml compiler, version 3.01 or newer.
 You can find it at:
-        http://caml.inria.fr/ocaml/distrib.html
+        http://caml.inria.fr/ocaml/release.en.html
 
-The just try
+Then just try
         make
 
 By default, the native code version is built, with the graphics

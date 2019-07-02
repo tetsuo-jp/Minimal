@@ -5,7 +5,7 @@ CAMLOPT=ocamlopt.opt
 CAMLLEX=ocamllex
 CAMLYACC=ocamlyacc
 CAMLLIBR=ocamlc -a
-CAMLFLAGS=
+CAMLFLAGS=-unsafe-string
 
 EXTRAOBJ = graph.cmo
 OBJECTS = \
